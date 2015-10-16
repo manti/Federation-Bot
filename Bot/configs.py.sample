@@ -1,0 +1,5 @@
+#   configs.py.sample
+#   Description:    ...
+
+API_KEY = ''
+USER_NAME = ''
