@@ -3,4 +3,4 @@
 
 API_KEY = ''
 USER_NAME = ''
-HOST ='https://federation.practodev.com
+HOST = 'https://federation.practodev.com'
