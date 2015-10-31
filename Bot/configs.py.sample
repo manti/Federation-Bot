@@ -2,5 +2,5 @@
 #   Description:    ...
 
 API_KEY = ''
-USER_NAME = ''
+API_USER_NAME = ''
 HOST = 'https://federation.practodev.com'
